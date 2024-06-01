@@ -4,6 +4,7 @@
   "description": "Xcode-inspired theme for Visual Studio Code",
   "version": "0.0.1",
   "publisher": "Evert Junior",
+  "icon": "./icon.png",
   "repository": {
     "url": "https://github.com/evertjr/vxcode-theme.git"
   },
