@@ -1,8 +1,8 @@
-# VXCode Theme for VSCode
+# VXcode Theme for VSCode
 
 ## A sleek, Xcode-inspired theme for Visual Studio Code
 
-VXCode is a visually please theme inspired by the aesthetics of Xcode and it's syntax colors. Tailored primarily for TS/JS development, but should look good on other programming languages.
+VXcode is a soothing theme that draws inspiration from the aesthetics and color palette of Apple's Xcode. Carefully crafted to make syntax highlighting feel intuitive and easy to read, especially on TS/JS projects, but it should look good in other languages too.
 
 ## Preview
 
@@ -13,6 +13,14 @@ VXCode is a visually please theme inspired by the aesthetics of Xcode and it's s
 ### Dark Mode
 
 ![Dark Mode Preview](/images/dark.png)
+
+## Customization
+
+- For the complete experience, I recommend using the SFMono-Medium font and disable bracket pair coloring.
+
+## Issues and Contribution
+
+- If you have any issues or suggestions, please feel free to open an issue.
 
 ## Credits
 
