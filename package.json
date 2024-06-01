@@ -1,0 +1,37 @@
+{
+  "name": "vxcode-theme",
+  "displayName": "vxcode theme",
+  "description": "Xcode-inspired theme for Visual Studio Code",
+  "version": "0.0.1",
+  "publisher": "Evert Junior",
+  "repository": {
+    "url": "https://github.com/evertjr/vxcode-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "Xcode",
+    "vxcode",
+    "light",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vxcode-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vxcode-dark-color-theme.json"
+      },
+      {
+        "label": "vxcode-light",
+        "uiTheme": "vs",
+        "path": "./themes/vxcode-light-color-theme.json"
+      }
+    ]
+  }
+}
