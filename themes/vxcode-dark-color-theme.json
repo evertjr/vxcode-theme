@@ -495,7 +495,8 @@
         "support.class.component.tsx",
         "support.class.component.jsx",
         "support.class.component.js",
-        "support.class.component.ts"
+        "support.class.component.ts",
+        "support.class.component.astro"
       ],
       "settings": {
         "foreground": "#DABAFF"
@@ -671,15 +672,9 @@
       }
     },
     {
-      "scope": ["variable.other.property"],
+      "scope": ["variable.other.property", "support.variable.property"],
       "settings": {
         "foreground": "#78C2B3"
-      }
-    },
-    {
-      "scope": ["support.variable.property"],
-      "settings": {
-        "foreground": "#B281EB"
       }
     },
     {
@@ -690,10 +685,15 @@
       }
     },
     {
-      "name": "Constants and enums",
       "scope": ["variable.other.constant.object"],
       "settings": {
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#ABF2E4"
       }
     },
     {
