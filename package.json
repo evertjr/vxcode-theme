@@ -1,10 +1,10 @@
 {
   "name": "vxcode-theme",
-  "displayName": "VXcode theme",
+  "displayName": "VXcode Theme",
   "description": "Xcode-inspired theme for Visual Studio Code",
   "version": "0.0.1",
-  "publisher": "Evert Junior",
-  "icon": "./icon.png",
+  "publisher": "evertjunior",
+  "icon": "images/icon.png",
   "repository": {
     "url": "https://github.com/evertjr/vxcode-theme.git"
   },
@@ -16,6 +16,7 @@
   ],
   "keywords": [
     "theme",
+    "mac",
     "Xcode",
     "vxcode",
     "light",
