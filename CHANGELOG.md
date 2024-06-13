@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.2] - 2024-06-13
+
+### Removed
+
+- Comment blocks from the JSON theme file to avoid issues.
