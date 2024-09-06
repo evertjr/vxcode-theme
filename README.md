@@ -18,9 +18,9 @@ VXcode is a soothing theme inspired by the color palette of Apple's Xcode. Caref
 
 ![Dark Mode Preview](/images/darker.png)
 
-## Customization
+### OLED Mode
 
-- For the complete experience, I recommend using the SFMono-Medium font and disable bracket pair coloring.
+![OLED Mode Preview](/images/oled.png)
 
 ## Issues and Contribution
 

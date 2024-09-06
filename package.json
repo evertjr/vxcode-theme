@@ -2,7 +2,7 @@
   "name": "vxcode-theme",
   "displayName": "VXcode Theme",
   "description": "Xcode-inspired theme for Visual Studio Code",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "evertjunior",
   "icon": "images/icon.png",
   "repository": {
@@ -33,6 +33,11 @@
         "label": "vxcode-darker",
         "uiTheme": "vs-dark",
         "path": "./themes/vxcode-darker-color-theme.json"
+      },
+      {
+        "label": "vxcode-OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vxcode-oled-color-theme.json"
       },
       {
         "label": "vxcode-light",

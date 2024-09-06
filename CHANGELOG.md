@@ -4,6 +4,16 @@ All notable changes to the "vxcode" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.8] - 2024-09-06
+
+### Added
+
+- New OLED optimized variant with pure black background for enhanced contrast.
+
+### Improved
+
+- Overall contrast improvements across themes.
+
 ## [0.0.7] - 2024-09-02
 
 - Improve Cursor IDE compatibility.
