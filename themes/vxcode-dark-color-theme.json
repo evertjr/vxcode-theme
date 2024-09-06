@@ -133,7 +133,7 @@
     "statusBarItem.warningBackground": "#d8b544",
     "statusBarItem.warningForeground": "#000000",
     "titleBar.activeBackground": "#1E1E1E",
-    "titleBar.inactiveBackground": "#2A2A30",
+    "titleBar.inactiveBackground": "#1E1E1E",
     "titleBar.border": "#ffffff10",
     "menu.foreground": "#cccccc",
     "menu.background": "#1E1E1E",
