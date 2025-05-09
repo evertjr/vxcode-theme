@@ -4,6 +4,12 @@ All notable changes to the "vxcode" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.10] - 2025-05-09
+
+### Improved
+
+- Slightly brightened hover backgrounds and adjusted inactive selection backgrounds in file tree for both darker and OLED themes.
+
 ## [0.0.9] - 2025-04-02
 
 ### Improved
