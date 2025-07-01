@@ -10,6 +10,10 @@ VXcode is a soothing theme inspired by the color palette of Apple's Xcode. Caref
 
 ![Light Mode Preview](/images/light.png)
 
+### Cream Mode
+
+![Cream Mode Preview](/images/cream.png)
+
 ### Dark Mode
 
 ![Dark Mode Preview](/images/dark.png)

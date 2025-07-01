@@ -4,6 +4,12 @@ All notable changes to the "vxcode" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.11] - 2025-06-10
+
+### Added
+
+- New cream light variant (`vxcode-cream`) featuring warmer cream tones based on #FAF3E0 / #F1E8D4.
+
 ## [0.0.10] - 2025-05-09
 
 ### Improved

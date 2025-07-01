@@ -2,7 +2,7 @@
   "name": "vxcode-theme",
   "displayName": "VXcode Theme",
   "description": "Xcode-inspired theme for Visual Studio Code",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "publisher": "evertjunior",
   "icon": "images/icon.png",
   "repository": {
@@ -43,6 +43,11 @@
         "label": "vxcode-light",
         "uiTheme": "vs",
         "path": "./themes/vxcode-light-color-theme.json"
+      },
+      {
+        "label": "vxcode-cream",
+        "uiTheme": "vs",
+        "path": "./themes/vxcode-cream-color-theme.json"
       }
     ]
   }
