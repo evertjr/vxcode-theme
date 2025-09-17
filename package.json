@@ -53,6 +53,11 @@
         "label": "vxcode-blush",
         "uiTheme": "vs",
         "path": "./themes/vxcode-blush-color-theme.json"
+      },
+      {
+        "label": "vxcode-lavender",
+        "uiTheme": "vs",
+        "path": "./themes/vxcode-lavender-color-theme.json"
       }
     ]
   }
