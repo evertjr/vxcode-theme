@@ -58,6 +58,11 @@
         "label": "vxcode-lavender",
         "uiTheme": "vs",
         "path": "./themes/vxcode-lavender-color-theme.json"
+      },
+      {
+        "label": "vxcode-lime",
+        "uiTheme": "vs",
+        "path": "./themes/vxcode-lime-color-theme.json"
       }
     ]
   }
