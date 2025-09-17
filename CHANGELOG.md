@@ -4,6 +4,12 @@ All notable changes to the "vxcode" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.13] - 2025-09-17
+
+### Added
+
+- New vxcode-blush theme variant with warm blush tones based on #E9DFD6 color palette.
+
 ## [0.0.12] - 2025-06-10
 
 ### Added
