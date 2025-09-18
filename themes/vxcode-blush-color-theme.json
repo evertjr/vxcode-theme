@@ -1,5 +1,5 @@
 {
-  "name": "vxcode cream",
+  "name": "vxcode blush",
   "type": "light",
   "colors": {
     "focusBorder": "#26966a",
@@ -43,7 +43,7 @@
     "activityBar.foreground": "#333333",
     "activityBar.border": "#DBCABC",
     "activityBarBadge.foreground": "#222222",
-    "activityBarBadge.background": "#8bc6b0",
+    "activityBarBadge.background": "#e3a77a",
     "activityBar.activeBorder": "#e38181",
     "sideBar.background": "#E2D5C8",
     "sideBar.border": "#DBCABC",
