@@ -736,6 +736,33 @@
       "settings": {
         "foreground": "#C8C8C8"
       }
+    },
+    {
+      "scope": "support.class.component.svelte",
+      "settings": {
+        "foreground": "#DABAFF"
+      }
+    },
+    {
+      "scope": ["meta.embedded.block.svelte", "variable.other.readwrite"],
+      "settings": {
+        "foreground": "#ABF2E4"
+      }
+    },
+    {
+      "scope": ["meta.embedded.block.svelte", "variable.other.readwrite.alias"],
+      "settings": {
+        "foreground": "#DABAFF"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.variable.svelte",
+        "meta.scope.tag.svelte:head.svelte"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
     }
   ],
   "semanticHighlighting": true
